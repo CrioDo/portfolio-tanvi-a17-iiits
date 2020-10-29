@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/portfolio-tanvi-a17-iiits/static/css/main.5db1380d.chunk.css",
+    "main.js": "/portfolio-tanvi-a17-iiits/static/js/main.5208f2c9.chunk.js",
+    "main.js.map": "/portfolio-tanvi-a17-iiits/static/js/main.5208f2c9.chunk.js.map",
+    "runtime-main.js": "/portfolio-tanvi-a17-iiits/static/js/runtime-main.3284450d.js",
+    "runtime-main.js.map": "/portfolio-tanvi-a17-iiits/static/js/runtime-main.3284450d.js.map",
+    "static/css/2.57ddf7ad.chunk.css": "/portfolio-tanvi-a17-iiits/static/css/2.57ddf7ad.chunk.css",
+    "static/js/2.9ba4a030.chunk.js": "/portfolio-tanvi-a17-iiits/static/js/2.9ba4a030.chunk.js",
+    "static/js/2.9ba4a030.chunk.js.map": "/portfolio-tanvi-a17-iiits/static/js/2.9ba4a030.chunk.js.map",
+    "index.html": "/portfolio-tanvi-a17-iiits/index.html",
+    "precache-manifest.76be1f017715ea045d9ca6a513ea79c9.js": "/portfolio-tanvi-a17-iiits/precache-manifest.76be1f017715ea045d9ca6a513ea79c9.js",
+    "service-worker.js": "/portfolio-tanvi-a17-iiits/service-worker.js",
+    "static/css/2.57ddf7ad.chunk.css.map": "/portfolio-tanvi-a17-iiits/static/css/2.57ddf7ad.chunk.css.map",
+    "static/css/main.5db1380d.chunk.css.map": "/portfolio-tanvi-a17-iiits/static/css/main.5db1380d.chunk.css.map",
+    "static/js/2.9ba4a030.chunk.js.LICENSE.txt": "/portfolio-tanvi-a17-iiits/static/js/2.9ba4a030.chunk.js.LICENSE.txt",
+    "static/media/crio-logo-white.svg": "/portfolio-tanvi-a17-iiits/static/media/crio-logo-white.c9536e04.svg",
+    "static/media/crio-logo.svg": "/portfolio-tanvi-a17-iiits/static/media/crio-logo.63be71d0.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3284450d.js",
+    "static/css/2.57ddf7ad.chunk.css",
+    "static/js/2.9ba4a030.chunk.js",
+    "static/css/main.5db1380d.chunk.css",
+    "static/js/main.5208f2c9.chunk.js"
+  ]
+}
